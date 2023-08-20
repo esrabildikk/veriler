@@ -1,4 +1,7 @@
- "images":{
+
+{
+
+"images":[
         "dersiki_bir": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_bir.svg",
         "dersiki_iki": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_iki.svg",
         "dersiki_uc": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_uc.svg",
@@ -8,8 +11,8 @@
         "dersiki_yedi": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_yedi.svg",
         "dersiki_sekiz": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_sekiz.svg",
         "dersiki_dokuz": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dokuz.svg"
-  }
+]
 
-
+}
 
  
