@@ -1,27 +1,25 @@
 
-{ 
+[
 
-"images": [{
-        "dersiki_bir_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_bir.svg"    
+{
+        "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_bir.svg"    
 }, {
-         "dersiki_iki_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_iki.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_iki.svg"
 }, {
-         "dersiki_uc_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_uc.svg"  
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_uc.svg"  
 }, {
-         "dersiki_dort_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dort.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dort.svg"
 }, {
-         "dersiki_bes_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_bes.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_bes.svg"
 }, {
-         "dersiki_alti_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_alti.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_alti.svg"
 }, {
-         "dersiki_yedi_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_yedi.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_yedi.svg"
 }, {
-         "dersiki_sekiz_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_sekiz.svg"
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_sekiz.svg"
 }, {
-         "dersiki_dokuz_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dokuz.svg"
-}]
-
-
-}
+         "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dokuz.svg"
+}       
+]
 
  
