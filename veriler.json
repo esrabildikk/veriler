@@ -1,7 +1,8 @@
 
-
- [
-{
+[{
+ "toolbar_url" : "https://raw.githubusercontent.com/esrabildikk/veriler/main/toolbar.svg"
+},
+ [{
         "image_url": ""    
 }, {
          "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_iki.svg"
@@ -19,6 +20,6 @@
          "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_sekiz.svg"
 }, {
          "image_url": "https://raw.githubusercontent.com/esrabildikk/veriler/main/dersiki_dokuz.svg"
-}       
-]
+}],
+ ]
  
